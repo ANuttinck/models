@@ -53,7 +53,6 @@ from object_detection.builders import model_builder
 from object_detection.utils import config_util
 from object_detection.utils import dataset_util
 from object_detection.utils import label_map_util
-coucou !!!
 
 
 tf.logging.set_verbosity(tf.logging.INFO)
